@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @athar-qadri
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and Java.
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me atharr.qadri@gmail.com
+- 💞️ I’m looking to collaborate on android projects. 
+- 📫 You can reach me at atharr.qadri@gmail.com
 
 <!---
 athar-qadri/athar-qadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
