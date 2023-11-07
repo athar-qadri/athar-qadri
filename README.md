@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @athar-qadri
+- 👋 Hi, I’m Athar Qadri
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python and Java.
 - 💞️ I’m looking to collaborate on android projects. 
