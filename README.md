@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Athar Qadri
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python and Java.
-- 💞️ I’m looking to collaborate on android projects. 
-- 📫 You can reach me at atharr.qadri@gmail.com
+Hi, I’m Athar Qadri.
+
+I am a Full Stack Developer and a Rust enthusiast, currently working at J&K Bank Ltd, involved with CBS API Development.
 
 <!---
 athar-qadri/athar-qadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
