@@ -1,4 +1,4 @@
-Hi, I’m Athar Qadri.
+Hi, I’m `Athar Qadri`
 
 I am a Full Stack Developer and a Rust enthusiast, currently working at J&K Bank Ltd, involved with CBS API Development.
 
